@@ -757,7 +757,7 @@
 				line-height: 3.75em;
 				overflow: hidden;
 				text-align: center;
-				text-indent: 2.5em;
+				text-indent: 0.5em;
 				white-space: nowrap;
 			}
 
@@ -768,7 +768,7 @@
 					font-style: normal;
 					font-variant: normal;
 					text-rendering: auto;
-					line-height: 0.25em;
+					line-height: 1;
 					text-transform: none !important;
 					font-family: 'Font Awesome 5 Free';
 					font-weight: 400;
