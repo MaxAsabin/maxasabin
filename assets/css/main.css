@@ -738,12 +738,12 @@
 		cursor: default;
 		list-style: none;
 		padding-left: 0;
-		margin-top: -0.675em;
+		margin-top: -0.275em;
 	}
 
 		ul.icons li {
 			display: inline-block;
-			padding: 0.275em 0.5em;
+			padding: 0.675em 0.5em;
 		}
 
 			ul.icons li a {
@@ -753,7 +753,7 @@
 				width: 2.5em;
 				height: 2.5em;
 				border-radius: 100%;
-				border: solid 1px #5eb4f0;
+				border: solid 1px #d0d6db;
 				line-height: 3.75em;
 				overflow: hidden;
 				text-align: center;
@@ -796,7 +796,7 @@
 				}
 
 				ul.icons li a:hover {
-					border-color: #ff7496;
+					border-color: #5eb4f0;
 				}
 
 		@media screen and (max-width: 480px) {
