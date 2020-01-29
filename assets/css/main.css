@@ -738,7 +738,7 @@
 		cursor: default;
 		list-style: none;
 		padding-left: 0;
-		margin-top: -0.275em;
+		margin-top: -0.675em;
 	}
 
 		ul.icons li {
@@ -768,7 +768,7 @@
 					font-style: normal;
 					font-variant: normal;
 					text-rendering: auto;
-					line-height: 1;
+					line-height: 0.25em;
 					text-transform: none !important;
 					font-family: 'Font Awesome 5 Free';
 					font-weight: 400;
