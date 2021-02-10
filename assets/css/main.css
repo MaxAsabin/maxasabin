@@ -850,6 +850,7 @@
 		button.icon,
 		.button.icon {
 			padding-left: 1.35em;
+			padding-right: 1.35em;
 		}
 
 			input[type="submit"].icon:before,
@@ -907,6 +908,7 @@
 				line-height: 2.5em;
 				text-align: center;
 				text-indent: 2.5em;
+				white-space: nowrap;
 			}
 
 /* Main */
