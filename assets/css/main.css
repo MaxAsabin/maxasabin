@@ -900,6 +900,22 @@
 			display: inline-block;
 			padding: 0.675em 0.5em;
 		}
+
+			.button li a {
+				text-decoration: none;
+				position: relative;
+				display: block;
+				width: 4.5em;
+				height: 4.5em;
+				border-radius: 100%;
+				border: solid 1px #d0d6db;
+				line-height: 4.5em;
+				overflow: hidden;
+				text-align: center;
+				text-indent: 4.5em;
+				white-space: nowrap;
+			}
+
 /* Main */
 
 	#main {
