@@ -902,18 +902,11 @@
 		}
 
 			.button li a {
-				text-decoration: none;
-				position: relative;
-				display: block;
-				width: 4.5em;
-				height: 4.5em;
-				border-radius: 100%;
-				border: solid 1px #d0d6db;
-				line-height: 4.5em;
-				overflow: hidden;
+				width: 2.5em;
+				height: 2.5em;
+				line-height: 2.5em;
 				text-align: center;
-				text-indent: 4.5em;
-				white-space: nowrap;
+				text-indent: 2.5em;
 			}
 
 /* Main */
