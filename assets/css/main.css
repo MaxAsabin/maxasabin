@@ -804,8 +804,7 @@
 				color: #ff0000;
 				}
 				ul.icons li a.icon.brands.fa-instagram:hover:before {
-				font-size: 72px;
-  				background: -webkit-linear-gradient(#eee, #333);
+  				background: -webkit-linear-gradient(#ff0000, #000);
   				-webkit-background-clip: text;
   -				webkit-text-fill-color: transparent;
 				}
