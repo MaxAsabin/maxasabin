@@ -802,6 +802,7 @@
 				
 				ul.icons li a.icon.brands.fa-youtube:hover:before {
 				color: #ff0000;
+				border: solid 1px #ff0000;
 				}
 				ul.icons li a.icon.brands.fa-instagram:hover:before {
 				color: #F56040;
