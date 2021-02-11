@@ -796,7 +796,7 @@
 					left: 0;
 					width: inherit;
 					height: inherit;
-					font-size: 2rem;
+					font-size: 1.75rem;
 					line-height: inherit;
 					text-align: center;
 					text-indent: 0;
@@ -822,7 +822,7 @@
 		@media screen and (max-width: 480px) {
 
 			ul.icons li a:before {
-				font-size: 2rem;
+				font-size: 1.75rem;
 			}
 
 		}
