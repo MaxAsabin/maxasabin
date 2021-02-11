@@ -951,7 +951,7 @@
 		transition: opacity 1s ease, transform 1s ease;
 		padding: 0 ;
 		background: #ffffff;
-		border-radius: 0 0 8px 8px;
+		border-radius: 10px 10px 8px 8px;
 		cursor: default;
 		max-width: 100%;
 		opacity: 0.95;
