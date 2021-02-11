@@ -559,6 +559,9 @@
 		.icon.brands:before {
 			font-family: 'Font Awesome 5 Brands';
 		}
+			.icon.brands.fa-youtube:after{
+			color: #f72f3c;
+		}
 
 /* List */
 
@@ -904,7 +907,7 @@
 
 			.button li a {
 				line-height: 2.25em;
-				padding-left: 2.5em;
+				padding-left: 2em;
 				text-align: center;
 				text-indent: -2em;
 				white-space: nowrap;
