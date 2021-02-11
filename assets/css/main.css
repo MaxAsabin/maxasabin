@@ -559,9 +559,7 @@
 		.icon.brands:before {
 			font-family: 'Font Awesome 5 Brands';
 		}
-			.icon.brands.fa-youtube:after{
-			color: #f72f3c;
-		}
+		
 
 /* List */
 
@@ -800,6 +798,9 @@
 
 				ul.icons li a:hover {
 					border-color: #5eb4f0;
+				}
+				ul.icons li a.fa-youtube:after{
+				color: #f72f3c;
 				}
 
 		@media screen and (max-width: 480px) {
