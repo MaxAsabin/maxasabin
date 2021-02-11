@@ -804,15 +804,13 @@
 				color: #ff0000;
 				}
 				ul.icons li a.icon.brands.fa-instagram:hover:before {
-  				background: -webkit-linear-gradient(#ff0000, #000);
-  				-webkit-background-clip: text;
-  -				webkit-text-fill-color: transparent;
+				color: #F56040;
 				}
 				ul.icons li a.icon.brands.fa-vk:hover:before {
 				color: #2787F5;
 				}
 				ul.icons li a.icon.brands.fa-facebook-f:hover:before {
-				color: #ff0000;
+				color: #4267B2;
 				}
 				ul.icons li a.icon.brands.fa-deviantart:hover:before {
 				color: #05CC46;
@@ -928,6 +926,10 @@
 				text-indent: -2em;
 				white-space: nowrap;
 			}
+
+				.button li a.icon.brands.fa-patreon:hover:before {
+				color: #f96854;
+				}
 
 /* Main */
 
