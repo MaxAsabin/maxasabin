@@ -903,6 +903,7 @@
 		}
 
 			.button li a {
+				line-height: 2.25em;
 				padding-left: 2.5em;
 				text-align: center;
 				text-indent: -2em;
