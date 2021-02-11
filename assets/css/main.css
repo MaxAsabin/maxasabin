@@ -799,7 +799,8 @@
 				ul.icons li a:hover {
 					border-color: #5eb4f0;
 				}
-				ul.icons li a.fa-youtube:after{
+				
+				ul.icons li a.fa-youtube:hover{
 				color: #f72f3c;
 				}
 
