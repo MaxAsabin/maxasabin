@@ -801,7 +801,22 @@
 				}
 				
 				ul.icons li a.icon.brands.fa-youtube:hover:before {
-				color: #f72f3c;
+				color: #ff0000;
+				}
+				ul.icons li a.icon.brands.fa-instagram:hover:before {
+				font-size: 72px;
+  				background: -webkit-linear-gradient(#eee, #333);
+  				-webkit-background-clip: text;
+  -				webkit-text-fill-color: transparent;
+				}
+				ul.icons li a.icon.brands.fa-vk:hover:before {
+				color: #2787F5;
+				}
+				ul.icons li a.icon.brands.fa-facebook-f:hover:before {
+				color: #ff0000;
+				}
+				ul.icons li a.icon.brands.fa-deviantart:hover:before {
+				color: #05CC46;
 				}
 
 		@media screen and (max-width: 480px) {
