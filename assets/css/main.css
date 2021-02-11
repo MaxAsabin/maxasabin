@@ -780,8 +780,12 @@
 	
 				}
 
+
 				ul.icons li a:hover:before {
 					color: #5eb4f0;
+				}
+
+				ul.icons li a:hover {
 					border-color: #5eb4f0;
 				}
 
