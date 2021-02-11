@@ -738,9 +738,9 @@
 	ul.icons {
 		cursor: default;
 		list-style: none;
-		padding-left: 1.5em;
-		padding-right: 1.5em;
-		margin-top: -0.675em;
+		padding-left: 3.5em;
+		padding-right: 3.5em;
+		margin-top: 0.75em;
 	}
 
 		ul.icons li {
