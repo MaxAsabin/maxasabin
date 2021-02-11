@@ -823,8 +823,8 @@
 		-ms-transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		display: inline-block;
-		height: 2.75em;
-		line-height: 2.75em;
+		height: 3.5em;
+    		line-height: 2.25em;
 		padding: 1.5em 0.5em;
 		background-color: transparent;
 		border-radius: 4px;
