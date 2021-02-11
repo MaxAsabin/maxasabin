@@ -209,7 +209,7 @@
 
 	p {
 		margin: 0 0 1.5em 0;
-		letter-spacing: 0.7em;
+		letter-spacing: 0.4em;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -1016,8 +1016,6 @@
 		align-self: flex-end;
 		width: 100%;
 		padding: 1.5em 0 0 0;
-		font-size: 1.85em;
-		letter-spacing: 0.22em;
 		color: rgba(255, 255, 255, 0.75);
 		cursor: default;
 		text-align: center;
