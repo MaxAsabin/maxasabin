@@ -752,14 +752,14 @@
 				text-decoration: none;
 				position: relative;
 				display: block;
-				width: 4.5rem;
-				height: 4.5rem;
+				width: 4rem;
+				height: 4rem;
 				border-radius: 100%;
 				border: solid 1px #d0d6db;
-				line-height: 4.5rem;
+				line-height: 4rem;
 				overflow: hidden;
 				text-align: center;
-				text-indent: 4.5rem;
+				text-indent: 4rem;
 				white-space: nowrap;
 			}
 
