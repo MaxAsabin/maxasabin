@@ -738,8 +738,8 @@
 	ul.icons {
 		cursor: default;
 		list-style: none;
-		padding-left: 4.5em;
-		padding-right: 4.5em;
+		padding-left: 5em;
+		padding-right: 5em;
 		margin-top: 1em;
 	}
 
@@ -957,7 +957,7 @@
 		opacity: 0.95;
 		position: relative;
 		text-align: center;
-		width: 40em;
+		width: 35em;
 	}
 
 		#main .avatar {
