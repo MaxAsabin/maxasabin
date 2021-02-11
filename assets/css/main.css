@@ -782,6 +782,7 @@
 
 				ul.icons li a:hover:before {
 					color: #5eb4f0;
+					border-color: #5eb4f0;
 				}
 
 				ul.icons li a:before {
