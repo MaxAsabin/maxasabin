@@ -738,9 +738,9 @@
 	ul.icons {
 		cursor: default;
 		list-style: none;
-		padding-left: 3.5em;
-		padding-right: 3.5em;
-		margin-top: 0.75em;
+		padding-left: 4.5em;
+		padding-right: 4.5em;
+		margin-top: 1em;
 	}
 
 		ul.icons li {
@@ -957,7 +957,7 @@
 		opacity: 0.95;
 		position: relative;
 		text-align: center;
-		width: 30em;
+		width: 40em;
 	}
 
 		#main .avatar {
