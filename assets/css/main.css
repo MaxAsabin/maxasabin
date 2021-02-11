@@ -752,14 +752,14 @@
 				text-decoration: none;
 				position: relative;
 				display: block;
-				width: 4.5em;
-				height: 4.5em;
+				width: 4.5rem;
+				height: 4.5rem;
 				border-radius: 100%;
 				border: solid 1px #d0d6db;
-				line-height: 4.5em;
+				line-height: 4.5rem;
 				overflow: hidden;
 				text-align: center;
-				text-indent: 4.5em;
+				text-indent: 4.5rem;
 				white-space: nowrap;
 			}
 
@@ -796,7 +796,7 @@
 					left: 0;
 					width: inherit;
 					height: inherit;
-					font-size: 2.5rem;
+					font-size: 2rem;
 					line-height: inherit;
 					text-align: center;
 					text-indent: 0;
@@ -822,7 +822,7 @@
 		@media screen and (max-width: 480px) {
 
 			ul.icons li a:before {
-				font-size: 2.5rem;
+				font-size: 2rem;
 			}
 
 		}
