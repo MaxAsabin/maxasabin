@@ -754,7 +754,8 @@
 				width: 4.5em;
 				height: 4.5em;
 				border-radius: 100%;
-				border: solid 1px #d0d6db;
+				border: solid 1px;
+				border-color: #d0d6db;
 				line-height: 4.5em;
 				overflow: hidden;
 				text-align: center;
@@ -804,7 +805,7 @@
 				
 				ul.icons li a.icon.brands.fa-youtube:hover:before {
 				color: #ff0000;
-				border: solid 1px #ff0000;
+				border-color: #ff0000;
 				}
 				ul.icons li a.icon.brands.fa-instagram:hover:before {
 				color: #F56040;
